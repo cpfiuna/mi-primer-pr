@@ -105,7 +105,7 @@ Pronto el bot de acciones estará mergeando todos tus cambios en la rama princip
 
 ## ¿Ahora qué?
 
-<img align="right" width="300" src="https://cpfiuna.github.io/recursos/mi-primer-pr/cat_code.gif" alt="coding cat" />
+<img align="right" width="200" src="https://cpfiuna.github.io/recursos/mi-primer-pr/cat_code.gif" alt="coding cat" />
 
 ¡Felicitaciones! Acabás de hacer tu primer pull request.
 
