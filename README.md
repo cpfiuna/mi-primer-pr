@@ -1,6 +1,6 @@
 # Primeras Contribuciones
 
-<img align="right" width="300" src="https://cpfiuna.github.io/recursos/Imagenes/Logos/cpf-logo.png" alt="cloná este repositorio" />
+<img align="right" width="300" src="https://cpfiuna.github.io/recursos/Imagenes/Logos/cpf-logo.png" alt="logo del club" />
 
 Antes de empezar a colaborar con nosotros es importante estar todos en la misma página, por eso este proyecto tiene como objetivo simplificar y guiar la forma en que los miembros hacen su primera contribución. Si estás buscando hacer tu primera contribución, seguí los pasos de abajo.
 
@@ -10,15 +10,15 @@ Si no tenés git en tu computadora, [instalalo](https://docs.github.com/en/get-s
 
 ## Forkeá este repositorio
 
-<img align="right" width="300" src="https://cpfiuna.github.io/recursos/mi-primer-pr/images/fork.png" alt="fork de este repositorio" />
+<img align="right" width="300" src="https://cpfiuna.github.io/recursos/mi-primer-pr/images/fork.png" alt="forkea este repositorio" />
 
 Hacé fork de este repositorio haciendo click en el botón fork en la parte superior de esta página. Esto crea una copia de este repositorio en tu cuenta.
 
 ## Cloná el repositorio
 
-<img align="right" width="300" src="https://cpfiuna.github.io/recursos/mi-primer-pr/images/clone.png" alt="cloná este repositorio" />
-
 Ahora cloná el repositorio forkeado a tu máquina. Andá a tu cuenta de GitHub, abrí el repositorio forkeado, hacé click en el botón code, después en la pestaña SSH y luego hacé click en el ícono de *copiar url al portapapeles*.
+
+<img align="right" width="300" src="https://cpfiuna.github.io/recursos/mi-primer-pr/images/clone.png" alt="cloná este repositorio" />
 
 Abrí una terminal y ejecutá el siguiente comando git:
 
