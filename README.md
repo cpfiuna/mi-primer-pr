@@ -109,8 +109,6 @@ Pronto el bot de acciones estará mergeando todos tus cambios en la rama princip
 
 Completaste el flujo de trabajo estándar fork -> clone -> edit -> pull request que vas a encontrar seguido como contribuidor!
 
-Si querés más práctica, chequeá las [contribuciones de código](https://github.com/cpfiuna/contribuciones-de-codigo).
-
 ## ¿Listo para contribuir?
 
 Ahora sí, si querés empezar a contribuir con nuestros proyectos. Entrá a ver en qué estámos trabajando en [nuestros repos](https://github.com/orgs/cpfiuna/repositories).
