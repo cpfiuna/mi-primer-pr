@@ -1,6 +1,6 @@
 # Primeras Contribuciones
 
-<img align="right" width="300" src="https://cpfiuna.github.io/recursos/Imagenes/Logos/cpf-logo.png" alt="logo del club" />
+<img align="right" width="300" src="https://assets.cpfiuna.io/recursos/Imagenes/Logos/cpf-logo.png" alt="logo del club" />
 
 Antes de empezar a colaborar con nosotros es importante estar todos en la misma página, por eso este proyecto tiene como objetivo simplificar y guiar la forma en que los miembros hacen su primera contribución. Si estás buscando hacer tu primera contribución, seguí los pasos de abajo.
 
@@ -8,7 +8,7 @@ Si no tenés git en tu computadora, [instalalo](https://docs.github.com/en/get-s
 
 ## Forkeá este repositorio
 
-<img align="right" width="300" src="https://cpfiuna.github.io/recursos/mi-primer-pr/images/fork.png" alt="forkea este repositorio" />
+<img align="right" width="300" src="https://assets.cpfiuna.io/recursos/mi-primer-pr/images/fork.png" alt="forkea este repositorio" />
 
 Hacé fork de este repositorio haciendo click en el botón fork en la parte superior de esta página. Esto crea una copia de este repositorio en tu cuenta.
 
@@ -16,7 +16,7 @@ Hacé fork de este repositorio haciendo click en el botón fork en la parte supe
 
 Ahora cloná el repositorio forkeado a tu máquina. Andá a tu cuenta de GitHub, abrí el repositorio forkeado, hacé click en el botón code, después en la pestaña SSH y luego hacé click en el ícono de *copiar url al portapapeles*.
 
-<img align="right" width="300" src="https://cpfiuna.github.io/recursos/mi-primer-pr/images/clone.png" alt="cloná este repositorio" />
+<img align="right" width="300" src="https://assets.cpfiuna.io/recursos/mi-primer-pr/images/clone.png" alt="cloná este repositorio" />
 
 Abrí una terminal y ejecutá el siguiente comando git:
 
@@ -25,7 +25,7 @@ git clone "url que acabás de copiar"
 ```
 donde "url que acabás de copiar" (sin las comillas) es la url de este repositorio (tu fork de este proyecto). Mirá los pasos anteriores para obtener la url.
 
-<img align="right" width="300" src="https://cpfiuna.github.io/recursos/mi-primer-pr/images/copy-to-clipboard.png" alt="copiar URL al portapapeles" />
+<img align="right" width="300" src="https://assets.cpfiuna.io/recursos/mi-primer-pr/images/copy-to-clipboard.png" alt="copiar URL al portapapeles" />
 
 Por ejemplo:
 
@@ -55,7 +55,7 @@ git switch -c add-juan-perez
 
 Ahora abrí el archivo `Contributors.md` en un editor de texto (el que quieras, podés usar VS Code también), agregá tu nombre. No lo agregues al principio o al final del archivo. Ponelo en cualquier lugar en el medio (Después del título y ántes del final). Ahora, guardá el archivo.
 
-<img align="right" width="450" src="https://cpfiuna.github.io/recursos/mi-primer-pr/images/git-status.png" alt="git status" />
+<img align="right" width="450" src="https://assets.cpfiuna.io/recursos/mi-primer-pr/images/git-status.png" alt="git status" />
 
 Si vas al directorio del proyecto y ejecutás el comando `git status`, vas a ver que hay cambios.
 
@@ -93,17 +93,17 @@ git push -u origin add-juan-perez
 
 Si vas a tu repositorio en GitHub, vas a ver un botón `Compare & pull request`. Hacé click en ese botón.
 
-<img style="float: right;" src="https://cpfiuna.github.io/recursos/mi-primer-pr/images/compare-and-pull.png" alt="crear un pull request" />
+<img style="float: right;" src="https://assets.cpfiuna.io/recursos/mi-primer-pr/images/compare-and-pull.png" alt="crear un pull request" />
 
 Ahora enviá el pull request.
 
-<img style="float: right;" src="https://cpfiuna.github.io/recursos/mi-primer-pr/images/submit-pull-request.png" alt="enviar pull request" />
+<img style="float: right;" src="https://assets.cpfiuna.io/recursos/mi-primer-pr/images/submit-pull-request.png" alt="enviar pull request" />
 
 Pronto el bot de acciones estará mergeando todos tus cambios en la rama principal de este proyecto. Vas a recibir un email de notificación una vez que los cambios hayan sido mergeados.
 
 ## ¿Ahora qué?
 
-<img align="right" width="200" src="https://cpfiuna.github.io/recursos/mi-primer-pr/cat_code.gif" alt="coding cat" />
+<img align="right" width="200" src="https://assets.cpfiuna.io/recursos/mi-primer-pr/cat_code.gif" alt="coding cat" />
 
 ¡Felicitaciones! Acabás de hacer tu primer pull request.
 
