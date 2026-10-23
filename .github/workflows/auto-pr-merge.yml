@@ -1,7 +1,7 @@
 name: Auto-merge PRs
 on:
   pull_request_target:
-    types: [opened, synchronize]
+    types: [opened, synchronize, reopened]
     paths:
       - 'Contributors.md' # <- only run if only contributors file changed
     
@@ -14,12 +14,8 @@ jobs:
       issues: write
       
     steps:
-      # Check out the repository code
-      - name: Checkout code
-        uses: actions/checkout@v4
-        with:
-          ref: ${{ github.event.pull_request.head.sha }}
-          fetch-depth: 2
+      # No checkout: this job only uses the GitHub API. Checking out fork code
+      # under pull_request_target is unsafe and actions/checkout refuses it.
 
       - name: Check if PR only modifies Contributors.md
         id: is_only_contributors_file_changed
