@@ -95,7 +95,7 @@ jobs:
 
                 const getMergeMessage = (username) => {
                   const greeting = `¡Hola @${username}, felicitaciones! Has hecho exitosamente un pull request. 🎉`;
-                  const starRepoMessage = `Si te gustó el tutorial, por favor dale una estrella a este repositorio haciendo clic en el botón de estrella en la esquina superior derecha de esta página.\n <img alt="star screenshot" title="star button" src="https://cpfiuna.github.io/recursos/mi-primer-pr/images/star.png">`;
+                  const starRepoMessage = `Si te gustó el tutorial, por favor dale una estrella a este repositorio haciendo clic en el botón de estrella en la esquina superior derecha de esta página.\n <img alt="star screenshot" title="star button" src="https://raw.githubusercontent.com/cpfiuna/mi-primer-pr/main/.github/images/star.png">`;
 
                     const nextSteps = `# Próximos pasos\n - Sigue contribuyendo: Si buscas proyectos para contribuir, revisa [nuestros repositorios](${web_url}).\n - Si querés más práctica revisá [contribuciones de código](${codeContributionsLink}).\n `;
                   const feedbackMessage = `Nos encantaría conocer tu opinión sobre este proyecto. Cuéntanos cómo podemos mejorar comentando o abriendo un issue aquí.`;
